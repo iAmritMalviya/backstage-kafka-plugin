@@ -77,7 +77,7 @@ entries.push({
     title: 'TypeScript',
     quadrant: 'languages',
     description:
-        'Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat',
+        'new description',
 });
 entries.push({
     timeline: [
