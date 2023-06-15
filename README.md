@@ -8,3 +8,8 @@ To start the app, run:
 yarn install
 yarn dev
 ```
+
+To use red panda: 
+```
+localhose:3000/redpanda
+```
