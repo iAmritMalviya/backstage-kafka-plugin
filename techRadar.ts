@@ -23,7 +23,7 @@ import {
 
 
 const rings = new Array<RadarRing>();
-rings.push({ id: 'adopt', name: 'ADOPT', color: '#5BA300' });
+rings.push({ id: 'adopt', name: 'ADOPTtttt', color: '#5BA300' });
 rings.push({ id: 'trial', name: 'TRIAL', color: '#009EB0' });
 rings.push({ id: 'assess', name: 'ASSESS', color: '#C7BA00' });
 rings.push({ id: 'hold', name: 'HOLD', color: '#E09B96' });
