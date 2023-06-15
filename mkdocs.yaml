@@ -1,5 +1,5 @@
-site_name: 'backstage-docs'
-
+site_name: 'backstage-kafka-plugin'
 nav:
   - Home: index.md
-
+plugins:
+  - techdocs-core
