@@ -11,5 +11,5 @@ yarn dev
 
 To use red panda: 
 ```
-localhose:3000/redpanda
+localhost:3000/redpanda
 ```
